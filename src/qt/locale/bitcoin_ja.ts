@@ -31,9 +31,9 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>
 これは実験的なソフトウェアです。
 
-MIT/X11 ソフトウェア ライセンスの下で配布されています。詳しくは添付の COPYING ファイルやhttp://www.opensource.org/licenses/mit-license.php を参照してください。
+MIT/X11ソフトウェアライセンスの下で配布されています。詳しくは添付のCOPYINGファイルや http://www.opensource.org/licenses/mit-license.php を参照してください。
 
-この製品は OpenSSL Toolkit (http://www.openssl.org/) に用いられる Eric Young (eay@cryptsoft.com) が開発した暗号化ソフトウェアと Thomas Bernard が開発した UPnP ソフトウェアを含んでいます。</translation>
+この製品は OpenSSL Toolkit (http://www.openssl.org/) に用いられる Eric Young (eay@cryptsoft.com) が開発した暗号化ソフトウェアと Thomas Bernard が開発したUPnPソフトウェアを含んでいます。</translation>
     </message>
 </context>
 <context>
@@ -66,7 +66,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-46"/>
         <source>These are your YAJUCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>支払いを受けるためのYAJUCOINのアドレス：支払い管理のため、送金先ごとにアドレスを発行することをおすすめします</translation>
+        <translation>支払いを受けるためのYAJUCOINのアドレス: 支払い管理のため、送金先ごとにアドレスを発行することをおすすめします</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -154,7 +154,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>（ラベル無し）</translation>
+        <translation>（ラベルなし）</translation>
     </message>
 </context>
 <context>
@@ -162,7 +162,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>パスワード ダイアログ</translation>
+        <translation>パスワードダイアログ</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -177,17 +177,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>あーもう1回入力してくれ（新しいパスワード）</translation>
+        <translation>再度新しいパスワード</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>OSのアカウントがハッキングされたときに、通常の送金を無効にする。ただし物的担保にはなりません。</translation>
+        <translation>OSのアカウントがハッキングされたときに、通常の送金を無効にします。ただし物的担保にはなりません。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation>賭けるのみ</translation>
+        <translation>鋳造のみ</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
@@ -237,7 +237,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>注意：暗号化したウォレットのパスワードを忘れた場合、b&gt;すべてのコインを失います&lt;/b&gt;</translation>
+        <translation>注意: 暗号化したウォレットのパスワードを忘れた場合、b&gt;すべてのコインを失います&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -247,7 +247,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>重要: 過去のウォレット ファイルのバックアップは、暗号化された新しいウォレット ファイルに取り替える必要があります。セキュリティ上の理由により、暗号化された新しいウォレットを使い始めると、暗号化されていないウォレット ファイルのバックアップはすぐに使えなくなります。</translation>
+        <translation>重要: 過去のウォレットファイルのバックアップは、暗号化された新しいウォレットファイルに置き換える必要があります。セキュリティ上の理由により、暗号化された新しいウォレットを使い始めると、暗号化されていないウォレットファイルのバックアップはすぐに使えなくなります。</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -318,7 +318,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+242"/>
         <source>Synchronizing with network...</source>
-        <translation>ネットワークに同期中……</translation>
+        <translation>ネットワークに同期中...</translation>
     </message>
     <message>
         <location line="-308"/>
@@ -383,7 +383,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>Qt について(&amp;Q)</translation>
+        <translation>Qtについて(&amp;Q)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -418,7 +418,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>取引履歴の%1 / %2 ブロックをダウンロードしました（%3%完了）</translation>
+        <translation>取引履歴の %1 / %2 ブロックをダウンロードしました（%3%完了）</translation>
     </message>
     <message>
         <location line="-247"/>
@@ -540,7 +540,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+0"/>
         <location line="+60"/>
         <source>YAJUCOIN client</source>
-        <translation>YAJUCOINクライアントソフトウェア</translation>
+        <translation>YAJUCOINクライアント</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
@@ -555,7 +555,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>鋳造中 (Staking)&lt;br&gt;重さは%1&lt;br&gt;ネットワークの重さは%2&lt;br&gt;報酬をもらう時間の推測は%3</translation>
+        <translation>鋳造中 (Staking)&lt;br&gt;重さは%1&lt;br&gt;ネットワークの重さは%2&lt;br&gt;報酬を得るまであと%3（推定）</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -645,7 +645,7 @@ Type: %3
 Address: %4
 </source>
         <translation>日時: %1
-金額: %2
+総額: %2
 種類: %3
 アドレス: %4</translation>
     </message>
@@ -659,7 +659,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid YAJUCOIN address or malformed URI parameters.</source>
-        <translation>URIを認識できませんでした（原因：無効なYAJUCOINアドレスまたは不正なURIパラメータ）</translation>
+        <translation>URIを認識できませんでした（原因: 無効なYAJUCOINアドレスまたは不正なURIパラメータ）</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -740,7 +740,7 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation>数量：</translation>
+        <translation>数量:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1125,7 +1125,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>処理を早めるための任意のキロバイトあたりの手数料：ほとんどの取引は1KBです。0.01をおすすめします。</translation>
+        <translation>処理を早めるための任意のキロバイトあたりの手数料: ほとんどの取引は1KBです。0.01をおすすめします。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the YAJUCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>YAJUCOINのネットワークへSOCKSプロキシで接続します（例：TORで接続する場合）</translation>
+        <translation>YAJUCOINのネットワークへSOCKSプロキシで接続します（例: TORで接続する場合）</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1195,7 +1195,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation>プロキシのIPアドレス（例： 127.0.0.1）</translation>
+        <translation>プロキシのIPアドレス（例: 127.0.0.1）</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1341,12 +1341,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-160"/>
         <source>Stake:</source>
-        <translation>鋳造：</translation>
+        <translation>鋳造:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>未承認：</translation>
+        <translation>未承認:</translation>
     </message>
     <message>
         <location line="-107"/>
@@ -1356,7 +1356,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+49"/>
         <source>Spendable:</source>
-        <translation>利用可能：</translation>
+        <translation>利用可能:</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1391,7 +1391,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>未承認の取引金額で、まだ現在の残高に含まれていません</translation>
+        <translation>未承認の取引額で、まだ現在の残高に含まれていません</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -1445,7 +1445,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>入力された金額は無効です。確認してください。</translation>
+        <translation>入力された額は無効です。確認してください。</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1572,7 +1572,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-104"/>
         <source>YAJUCOIN - Debug window</source>
-        <translation>YAJUCOIN：デバッグウインドウ</translation>
+        <translation>YAJUCOIN: デバッグウインドウ</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1647,7 +1647,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation>数量：</translation>
+        <translation>数量:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>金額 (&amp;A):</translation>
+        <translation>総額 (&amp;A):</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2410,7 +2410,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>取引状況：この欄の上にカーソルを置くと承認数を表示します</translation>
+        <translation>取引状況: この欄の上にカーソルを置くと承認数を表示します</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2700,7 +2700,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>YAJUCOINネットワークをサポートし報酬を得るためにコインを鋳造する（デファルト：1）</translation>
+        <translation>YAJUCOINネットワークをサポートし報酬を得るためにコインを鋳造する（デファルト: 1）</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2800,7 +2800,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong YAJUCOIN will not work properly.</source>
-        <translation> 警告：コンピュータの日時が正しいか確認してください。時間がずれている場合、YAJUCOIN Qtは正しく動作しません。</translation>
+        <translation> 警告: システムの日時が正しいか確認してください。時間がずれている場合、YAJUCOIN Qtは正しく動作しません。</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2947,7 +2947,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Tor秘匿サービスに接続するプロキシ（デファルト：-proxy と同じ）</translation>
+        <translation>Tor秘匿サービスに接続するプロキシ（デファルト: -proxy と同じ）</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -3022,7 +3022,7 @@ rpcpassword=%s
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>取引が生成されたとき、この額より小さいものを無視する（デファルト：0.01）</translation>
+        <translation>取引が生成されたとき、この額より小さいものを無視する（デファルト: 0.01）</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -3052,7 +3052,7 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>取引のスクリプトコマンドで標準的なPUSHオペレーターを常に使用する(デファルト：1)</translation>
+        <translation>取引のスクリプトコマンドで標準的なPUSHオペレーターを常に使用する(デファルト: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3142,7 +3142,7 @@ rpcpassword=%s
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>このコンピュータの %s にバインドすることができません（バインドが返したエラー: %d, %s）</translation>
+        <translation>このコンピューターの %s にバインドすることができません（バインドが返したエラー: %d, %s）</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3247,7 +3247,7 @@ rpcpassword=%s
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. YAJUCOIN is probably already running.</source>
-        <translation>このコンピューターで %s にバインドできませんでした。YAJUCOIN Qtはすでに起動しています。</translation>
+        <translation>このコンピューターの %s にバインドできませんでした。YAJUCOIN Qtはすでに起動しています。</translation>
     </message>
     <message>
         <location line="-97"/>
