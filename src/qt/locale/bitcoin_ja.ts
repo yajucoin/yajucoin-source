@@ -46,7 +46,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>アドレスまたはラベルを編集するにはダブルクリックしてください</translation>
+        <translation>アドレスまたはラベルを編集するにはダブルクリックするんだゾ</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -66,7 +66,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="-46"/>
         <source>These are your YAJUCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>支払いを受けるためのYAJUCOINのアドレス: 支払い管理のため、送金先ごとにアドレスを発行することをおすすめします</translation>
+        <translation>支払いを受けるためのYAJUCOINのアドレス: 支払い管理のため、送金先ごとにアドレスを発行することをおすすめするゾ</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -136,7 +136,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイル %1 を書き出せませんでした</translation>
+        <translation>ファイル %1 を書き出せませんでしたセンセンシャル！</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>再度新しいパスワード</translation>
+        <translation>あーもう1回打ってくれ（新しいパスワード）</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -192,7 +192,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>ウォレットの新しいパスワードを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使ってください。</translation>
+        <translation>ウォレットの新しいパスワードを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使って、どうぞ。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -237,7 +237,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>注意: 暗号化したウォレットのパスワードを忘れた場合、b&gt;すべてのコインを失います&lt;/b&gt;</translation>
+        <translation>注意: 暗号化したウォレットのパスワードを忘れた場合、b&gt;すべてのコインを失います&lt;/b&gt;。よーく見とけよ。</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -253,7 +253,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>警告: Caps Lock キーがオンになっています</translation>
+        <translation>警告: Caps Lock キーがオンになってるゾ</translation>
     </message>
     <message>
         <location line="-133"/>
@@ -272,12 +272,12 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>ウォレットの暗号化に失敗しました</translation>
+        <translation>ウォレットの暗号化に失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>内部エラーによりウォレットの暗号化が失敗しましたｾﾝｾﾝｼｬﾙ！</translation>
+        <translation>内部エラーによりウォレットの暗号化が失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -288,19 +288,19 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>ウォレットのロック解除に失敗しました</translation>
+        <translation>ウォレットのロック解除に失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>ウォレットの復号パスワードが正しくありません。</translation>
+        <translation>ウォレットの復号パスワードが正しくありません</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>ウォレットの復号に失敗しました</translation>
+        <translation>ウォレットの復号に失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -413,7 +413,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message numerus="yes">
         <location line="+250"/>
         <source>~%n block(s) remaining</source>
-        <translation><numerusform>~%n ブロックが残っています</numerusform></translation>
+        <translation><numerusform>~%n ブロックが残っています。だいぶ溜まってんじゃんアゼルバイジャン</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -503,7 +503,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation>ウォレットをロックする</translation>
+        <translation>ウォレットのロック</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -550,7 +550,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+40"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>取引履歴の%1ブロックをダウンロードしました。</translation>
+        <translation>取引履歴の%1ブロックをダウンロードしました</translation>
     </message>
     <message>
         <location line="+413"/>
@@ -560,7 +560,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>ウォレットがロックされたため鋳造していません</translation>
+        <translation>ウォレットがロックされているため鋳造していません</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -575,7 +575,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>承認済みコインがないため、鋳造していません</translation>
+        <translation>承認済みコインがないため鋳造していません</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -620,7 +620,7 @@ MIT/X11ソフトウェアライセンスの下で配布されています。詳�
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>この取引はサイズの上限を超えています。手数料%1を払うことで送金できます。手数料は取引を処理するノードへ支払われ、ネットワークのサポートになります。手数料を支払いますか？</translation>
+        <translation>サイズでかスギィ！ 手数料%1を払うことで送金できます。手数料は取引を処理するノードへ支払われ、ネットワークのサポートになります。手数料を支払いますか？</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -653,7 +653,7 @@ Address: %4
         <location line="+100"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation>URIの取り扱い</translation>
+        <translation>URIハンドリング</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -684,12 +684,12 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>バックアップに失敗しました</translation>
+        <translation>バックアップに失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>新しい場所へウォレットデータの保存を試行しましたがエラーが発生しました。</translation>
+        <translation>新しい場所へウォレットデータの保存を試行しましたがエラーが発生しましたセンセンシャル！</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
@@ -719,7 +719,7 @@ Address: %4
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
         <source>A fatal error occurred. YAJUCOIN can no longer continue safely and will quit.</source>
-        <translation>致命的なエラーが発生しました。安全に続行できないため、YAJUCOON Qtを終了します。</translation>
+        <translation>ファッ！？ 致命的なエラーが発生しました。安全に続行できないため、YAJUCOON Qtを終了します。</translation>
     </message>
 </context>
 <context>
@@ -820,12 +820,12 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation>検証済の数</translation>
+        <translation>承認数</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>検証済</translation>
+        <translation>承認済み</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -940,7 +940,7 @@ Address: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>このラベルが赤い場合は、取引のサイズが10000バイトを超えています。
+        <translation>このラベルが赤い場合は、取引のサイズが10000バイトを超えています。はえ＾～すっごい大きい・・・。
 
 したがって、少なくともKBあたり手数料 %1 が必要となります。
 
@@ -1023,7 +1023,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>このアドレス帳の入力のアドレス。通信アドレスした変更ができない。</translation>
+        <translation>アドレスがアドレス帳エントリに紐付けられました。これはアドレスを送信することでのみ変更されます。</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1058,12 +1058,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>ウォレットのロックを解除できませんでした</translation>
+        <translation>ウォレットのロックを解除できませんでしたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>新しいキーの生成に失敗しました</translation>
+        <translation>新しいキーの生成に失敗しましたセンセンシャル！</translation>
     </message>
 </context>
 <context>
@@ -1097,17 +1097,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>言語の設定、例: &quot;de_DE&quot; (デフォルト: システムのロケール)</translation>
+        <translation>言語の設定、例: &quot;de_DE&quot;（デフォルト: システムのロケール）</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>最小化でスタート</translation>
+        <translation>最小化で起動</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>起動時に野獣先輩を表示 (デフォルト: 1)</translation>
+        <translation>起動時に野獣先輩を表示（デフォルト: 1）</translation>
     </message>
 </context>
 <context>
@@ -1125,7 +1125,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>処理を早めるための任意のキロバイトあたりの手数料: ほとんどの取引は1KBです。0.01をおすすめします。</translation>
+        <translation>処理を早めるための任意のキロバイトあたりの手数料: ほとんどの取引は1KBです。0.01をおすすめするゾ。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1145,7 +1145,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Automatically start YAJUCOIN after logging in to the system.</source>
-        <translation>システムにログインしたときに自動的にYAJUCOIN Qtを起動させます</translation>
+        <translation>システムにログインしたときに自動的にYAJUCOIN Qtが起動します</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1225,7 +1225,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>ウィンドウを最小化したあとトレイアイコンだけを表示します</translation>
+        <translation>ウィンドウを最小化したあとトレイアイコンのみを表示します</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1285,7 +1285,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>コインコントロールの設定を表示する（専門的な知識を持つユーザーのみ）</translation>
+        <translation>コインコントロールの設定を表示する（一般人はそんなことしなくていいから）</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1300,7 +1300,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>適用する</translation>
+        <translation>適用する (&amp;A)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
@@ -1450,7 +1450,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URIの長さが上限を超えるため、ラベルまたはメッセージを短くしてください</translation>
+        <translation>URIが長スギィ！ ラベル/メッセージを短くしてください。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1572,7 +1572,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-104"/>
         <source>YAJUCOIN - Debug window</source>
-        <translation>YAJUCOIN: デバッグウインドウ</translation>
+        <translation>YAJUCOIN - デバッグウインドウ</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1587,7 +1587,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Open the YAJUCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現在のディレクトリからデバッグログファイルを開きます。大きなファイルの場合、少し時間がかかります。</translation>
+        <translation>現在のディレクトリからデバッグログファイルを開きます。大きなファイルだとすこーし時間掛かりそうですかね～？</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,17 +1597,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the YAJUCOIN RPC console.</source>
-        <translation>YAJUCOIN RPCコンソールへようこそ</translation>
+        <translation>YAJUCOIN RPCコンソールへようこそ †悔い改めて†</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>上下の矢印で履歴をたどれます。 &lt;b&gt;Ctrl-L&lt;/b&gt; でスクリーンを消去できます。</translation>
+        <translation>上下の矢印で履歴をたどれるゾ。&lt;b&gt;Ctrl-L&lt;/b&gt; でスクリーンを消去できるゾ。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>使用可能なコマンドを見るには &lt;b&gt;help&lt;/b&gt; と入力します。</translation>
+        <translation>使用可能なコマンドを見るには &lt;b&gt;help&lt;/b&gt; と入力します。ハイ、ヨロシクゥ！</translation>
     </message>
 </context>
 <context>
@@ -1811,7 +1811,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>%1送金してよろしいですか?</translation>
+        <translation>%1送金してよろしいですか？</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1821,7 +1821,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>受取人のアドレスが不正です。再確認してください。</translation>
+        <translation>あのさぁ・・・受取人のアドレスが不正です。再確認してください。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1831,17 +1831,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>送金額が残高を超えています</translation>
+        <translation>まずいですよ！ 送金額が残高を超えています</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>%1 の取引手数料を含めた送金額が残高を超えています</translation>
+        <translation>何か足んねぇよなぁ？ %1 の取引手数料を含めた送金額が残高を超えています</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>重複しているアドレスが見つかりました。1度の送金で同じアドレスに送ることは出来ません。</translation>
+        <translation>重複しているアドレスが見つかりました。1度の送金で同じアドレスに送ることはできません。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2050,7 +2050,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>不正なアドレスが入力されました</translation>
+        <translation>あのさぁ・・・不正なアドレスが入力されました</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2079,7 +2079,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>メッセージの署名に失敗しました</translation>
+        <translation>メッセージの署名に失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2105,7 +2105,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>メッセージの検証に失敗しました</translation>
+        <translation>メッセージの検証に失敗しましたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2123,7 +2123,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation><numerusform>%n ブロックがオープンです</numerusform></translation>
+        <translation><numerusform>おっ、%n ブロック開いてんじゃ～ん！</numerusform></translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2143,7 +2143,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 確認</translation>
+        <translation>承認数: %1</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2589,7 +2589,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイル %1 を書き出せませんでした</translation>
+        <translation>ファイル %1 を書き出せませんでしたセンセンシャル！</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2607,7 +2607,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
-        <translation>通信中...</translation>
+        <translation>イキますよ～イクイク・・・</translation>
     </message>
 </context>
 <context>
